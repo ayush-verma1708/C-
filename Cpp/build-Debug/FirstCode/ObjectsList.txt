@@ -1,0 +1,1 @@
+../build-Debug/FirstCode/loop.cpp.o ../build-Debug/FirstCode/main.cpp.o   

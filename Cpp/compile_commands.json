@@ -1,0 +1,13 @@
+[{
+  "file": "E:\\Coding\\Cpp\\Cpp\\FirstCode\\main.cpp",
+  "directory": "E:\\Coding\\Cpp\\Cpp\\FirstCode",
+  "command": "C:/mingw64/bin/g++.exe -c E:\\Coding\\Cpp\\Cpp\\FirstCode\\main.cpp -o E:\\Coding\\Cpp\\Cpp\\FirstCode\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "E:\\Coding\\Cpp\\Cpp\\FirstCode\\loops_in_c.hpp",
+  "directory": "E:\\Coding\\Cpp\\Cpp\\FirstCode",
+  "command": "C:/mingw64/bin/g++.exe -c E:\\Coding\\Cpp\\Cpp\\FirstCode\\loops_in_c.hpp -o E:\\Coding\\Cpp\\Cpp\\FirstCode\\loops_in_c.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "E:\\Coding\\Cpp\\Cpp\\FirstCode\\loops_in_c.cpp",
+  "directory": "E:\\Coding\\Cpp\\Cpp\\FirstCode",
+  "command": "C:/mingw64/bin/g++.exe -c E:\\Coding\\Cpp\\Cpp\\FirstCode\\loops_in_c.cpp -o E:\\Coding\\Cpp\\Cpp\\FirstCode\\loops_in_c.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0 -IC:\\mingw64\\include\\c++\\13.1.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.1.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
